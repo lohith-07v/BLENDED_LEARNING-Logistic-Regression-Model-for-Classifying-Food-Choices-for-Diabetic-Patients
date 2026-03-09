@@ -21,10 +21,6 @@ Program to implement Logistic Regression for classifying food choices based on n
 Developed by: Lohith V
 RegisterNumber:  25013313
 
-/*
-Program to implement Logistic Regression for classifying food choices based on nutritional information.
-Developed by: Shrivarshan 
-RegisterNumber: 25019111
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
