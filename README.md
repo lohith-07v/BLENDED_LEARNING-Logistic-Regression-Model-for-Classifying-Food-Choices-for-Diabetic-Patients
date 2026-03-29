@@ -65,7 +65,12 @@ print("Reg. No: 25013313")
 ```
 
 ## Output:
-![alt text](<Screenshot 2026-03-09 115354.png>)
-![alt text](<Screenshot 2026-03-09 115414.png>)
+<img width="785" height="509" alt="Screenshot 2026-03-29 144459" src="https://github.com/user-attachments/assets/de168cf5-ee24-4c1b-985f-0a8771a9943a" />
+
+<img width="552" height="464" alt="Screenshot 2026-03-29 144508" src="https://github.com/user-attachments/assets/956e586b-ad41-423b-b169-13245405d5b2" />
+
+<img width="626" height="382" alt="Screenshot 2026-03-29 144516" src="https://github.com/user-attachments/assets/0f972c38-dcd5-4873-9fee-f22adb713abe" />
+
+
 ## Result:
 Thus, the logistic regression model was successfully implemented to classify food items for diabetic patients based on nutritional information, and the model's performance was evaluated using various performance metrics such as accuracy, precision, and recall.
